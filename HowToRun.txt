@@ -1,0 +1,3 @@
+Step1:Download the data
+Step2:Download all required libraries from requirment.txt
+Step3:Run the file 'code.py' file 
